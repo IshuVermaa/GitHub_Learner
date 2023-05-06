@@ -1,0 +1,5 @@
+git add .     // to add all the files to the githb.
+git commit -m "      "    // to commit the changes.
+git status
+git remote add origin https://-----     // connecting remote repository to local repository
+git push origin master      //to push the contents to the repository
